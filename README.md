@@ -8,3 +8,4 @@ npm i --save-dev git+https://github.com/fangkyi03/vue-loader-qiniu.git
 在plugin-webpack4中配置qiniu参数
 在lib/templateLoader中配置qiniu路径
 暂时还没有将其放到参数里面 所以先直接这样改一下吧 有兴趣的可以自己改一下
+
